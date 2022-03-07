@@ -1,10 +1,11 @@
                     UnsafeWare Proprietary
-                    Version 3, March 2022
+                    Version 4, March 2022
 
  Copyright (C) 2022 Intel_i80486_DX4 <hoponthespot@gmail.com> 
 
  You (User) are permitted to use this software (UnsafeWare) under the following license as permitted by Us/Dev (UnsafeDev Limited) assuming You have 
- purchased (No Refunds will be given.) or have been given a valid license (UnsafeLicense) and have had Your HWID (Unique ID bound to Your PC) whitelisted. 
+ purchased (No Refunds will be given.) or have been given a valid license (UnsafeLicense) and have had Your HWID/s (Unique ID bound to Your PC) whitelisted. 
+ Upon using this software (UnsafeWare), You agree to any and all of the following and preceeding terms
 
             UnsafeWare Proprietary License
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
@@ -15,7 +16,8 @@
   3. Unarchiving, Decompiling, Deobfuscating or Modifying the loader or client jar (Java ARchive.) is not permitted, and doing so will result in the invokation of "UTL".
   4. If You (User) bought a license key, and attempt to charge-back, dispute or reverse the form of payment, UTL will be invoked whether or not said action goes through.
   5. Distributing the license key (UnsafeLicense) is not permitted, If Your license key has found to have been distributed, "UTL" will be invoked.
-  6. Downloading the "Client jar" in any other method other then using the loader jar, is not permitted and will results in the invokation of "UTL"
+  6. Downloading the "Client jar" in any other method other then using the loader jar, is not permitted and will results in the invokation of "UTL".
+  7. You are permitted at any 1 singular time to contact the dev to ask for another HWID to be whitelisted. (Up to a maximum of 2.)
   
   
   UTL (User Termination License)
@@ -25,5 +27,5 @@
   Unless the Dev at some point (Past or Future) asks You (User) to explicitly stop contacting They/Them, in which case You are *NO LONGER* at any point,
   permitted to contact the Dev.
   2. You are as pastly described not allowed to Unarchive, Decompile, Deobfuscate or Modify the loader or client jar.
-  3. Your HWID and/or License Key will be blacklisted, So at the time of launch of the Software (UnsafeWare), Security Measures will start, causing a seg-fault.
+  3. Your HWID/s and/or License Key will be blacklisted, So at the time of launch of the Software (UnsafeWare), Security Measures will start, causing a seg-fault.
  
