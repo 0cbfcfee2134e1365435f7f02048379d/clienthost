@@ -1,5 +1,5 @@
                     UnsafeWare Proprietary
-                    Version 2, March 2022
+                    Version 3, March 2022
 
  Copyright (C) 2004 Intel_i80486_DX4 <hoponthespot@gmail.com> 
 
@@ -15,6 +15,7 @@
   3. Unarchiving, Decompiling, Deobfuscating or Modifying the loader or client jar (Java ARchive.) is not permitted, and doing so will result in the invokation of "UTL".
   4. If You (User) bought a license key, and attempt to charge-back, dispute or reverse the form of payment, UTL will be invoked whether or not said action goes through.
   5. Distributing the license key (UnsafeLicense) is not permitted, If Your license key has found to have been distributed, "UTL" will be invoked.
+  6. Downloading the "Client jar" in any other method other then using the loader jar, is not permitted and will results in the invokation of "UTL"
   
   
   UTL (User Termination License)
